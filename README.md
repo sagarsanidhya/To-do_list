@@ -24,6 +24,4 @@ To-Do list
 
 
 
-## Screenshot
 
-![Screenshot 2024-01-21 002800](https://github.com/sagarsanidhya/To-do_list/assets/153551803/498879d8-ba9f-4e8c-a4b8-6daec53f6d74)
